@@ -80,29 +80,29 @@ La calculadora permite resolver expresiones matemáticas combinadas utilizando d
 Ejemplos:
 
 
-(2+3)*4
-3/4+5/6
-sqrt(144)+5^2
-sin(30)*10
-sin(30)*(3/4+5/6)
-cos(60)+sqrt(25)
+(2+3)*4.
+3/4+5/6.
+sqrt(144)+5^2.
+sin(30)*10.
+sin(30)*(3/4+5/6).
+cos(60)+sqrt(25).
 
 # La resolución de expresiones permite utilizar:
 
-+ Suma
-- Resta
-* Multiplicación
-/ División
-^ Potencia
-( ) Paréntesis
-sqrt() Raíz cuadrada
-sin() Seno
-cos() Coseno
-tan() Tangente
-ln() Logaritmo natural
-log10() Logaritmo base 10
-pi Constante π
-e Constante de Euler
++ Suma.
+- Resta.
+* Multiplicación.
+/ División.
+^ Potencia.
+( ) Paréntesis.
+sqrt() Raíz cuadrada.
+sin() Seno.
+cos() Coseno.
+tan() Tangente.
+ln() Logaritmo natural.
+log10() Logaritmo base 10.
+pi Constante π.
+e Constante de Euler.
 
 ### Constantes matemáticas
 
