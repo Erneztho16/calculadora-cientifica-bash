@@ -1,0 +1,18 @@
+# Historial generado por la calculadora
+data/historial.txt
+
+# Archivos de respaldo
+calculadora_backup.sh
+
+# Archivos temporales
+*.tmp
+*.bak
+*~
+
+# Archivos de configuración de editores
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
