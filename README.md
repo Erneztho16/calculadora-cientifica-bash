@@ -73,6 +73,37 @@ El proyecto está desarrollado utilizando **Bash** y la herramienta **bc** para 
 - Porcentaje
 - Valor absoluto
 
+### Resolución de expresiones
+
+La calculadora permite resolver expresiones matemáticas combinadas utilizando diferentes operadores y funciones científicas en una misma expresión.
+
+Ejemplos:
+
+
+(2+3)*4
+3/4+5/6
+sqrt(144)+5^2
+sin(30)*10
+sin(30)*(3/4+5/6)
+cos(60)+sqrt(25)
+
+# La resolución de expresiones permite utilizar:
+
++ Suma
+- Resta
+* Multiplicación
+/ División
+^ Potencia
+( ) Paréntesis
+sqrt() Raíz cuadrada
+sin() Seno
+cos() Coseno
+tan() Tangente
+ln() Logaritmo natural
+log10() Logaritmo base 10
+pi Constante π
+e Constante de Euler
+
 ### Constantes matemáticas
 
 - π (Pi)
