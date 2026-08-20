@@ -217,7 +217,7 @@ primero escribe  sudo apt update  y luego, sudo apt install bc y solo queda espe
 
 # Para clonar el repositorio:
 
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/Erneztho16/calculadora-cientifica-bash.git
 
 Entrar al directorio:
 
@@ -263,7 +263,8 @@ Control de versiones con Git.
 
 Autores
 
-Ernesto Gonzalez
-Pablo Jacinto
+Ernesto Gonzalez.
+
+Pablo Jacinto.
 
 Proyecto académico desarrollado en Bash para Linux.
