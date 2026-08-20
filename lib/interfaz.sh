@@ -27,7 +27,8 @@ mostrar_menu() {
     echo "6) Constantes matemáticas"
     echo "7) Modo angular [$MODO_ANGULAR]"
     echo "8) Historial"
-    echo "9) Salir"
+    echo "9) Resolver expresión"
+    echo "10) Salir"
     echo
 }
 

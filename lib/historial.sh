@@ -4,7 +4,7 @@
 # CONFIGURACIÓN DEL HISTORIAL
 # ==========================================
 
-ARCHIVO_HISTORIAL="$SCRIPT_DIR/data/historial.txt"
+ARCHIVO_HISTORIAL="$(cd "$(dirname "${BASH_SOURCE[0]}")/../data" && pwd)/historial.txt"
 
 
 # ==========================================

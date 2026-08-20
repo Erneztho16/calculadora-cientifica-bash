@@ -11,6 +11,7 @@ source "$SCRIPT_DIR/lib/matematicas.sh"
 source "$SCRIPT_DIR/lib/trigonometria.sh"
 source "$SCRIPT_DIR/lib/interfaz.sh"
 source "$SCRIPT_DIR/lib/historial.sh"
+source "$SCRIPT_DIR/lib/expresiones.sh"
 
 
 # Precisión interna
@@ -76,11 +77,15 @@ do
             ;;
 
         9)
+            resolver_expresion
+            ;;
+            
+        10)
             echo
             echo -e "${VERDE}Gracias por utilizar la calculadora.${RESET}"
             exit 0
             ;;
-
+            
         *)
             echo
             echo -e "${ROJO}Opción no válida.${RESET}"
